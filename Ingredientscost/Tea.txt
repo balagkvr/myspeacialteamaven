@@ -1,1 +1,1 @@
-tea 5 rs
+tea 5 rs + 1
